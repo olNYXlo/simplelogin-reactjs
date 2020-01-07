@@ -1,3 +1,15 @@
+## Simple Website with Login & Registration Pages
+
+Works in tandem with SimpleLogin-SpringBoot to provide backend logic & access to Database
+Application functions entirely on the basis of localhost, no servers required
+
+
+
+
+
+
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
